@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Motivational Quotes</string>
+    <string name="quote1">The secret of getting ahead is getting started.</string>
+    <string name="quote2">Do one thing everyday that scares you.</string>
+    <string name="quote3">Impossible is just an option.</string>
+    <string name="quote4">Hold the vision, trust the process.</string>
+    <string name="quote5">Your passion is waiting for your courage to catch up.</string>
+    <string name="quote6">Don\'t be afraid to give up the good to go for the great.</string>
+    <string name="quote7">Hustle in silence and let your success make the noise.</string>
+    <string name="quote8">The hard days are what makes you stronger.</string>
+    <string name="quote9">Whatever you are, be a good one.</string>
+</resources>
